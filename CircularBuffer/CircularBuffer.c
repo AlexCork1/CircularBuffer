@@ -1,9 +1,6 @@
 /*
  * CircularBuffer.c
- *
- *  Created on: 3 Nov 2022
- *      Author: AlesC
- *      TEST
+ *      Author: AlexCork
  */
 
 #include "CircularBuffer.h"

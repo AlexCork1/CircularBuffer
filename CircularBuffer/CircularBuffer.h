@@ -1,9 +1,9 @@
 /*
  * CircularBuffer.h
  *
- *  Created on: 20 Dec 2022
- *      Author: Alex
- *	Implementation of
+ *      Author: AlexCork
+ *		
+ *		Implementation of circular buffer in C
  */
 
 #ifndef CIRCULARBUFFER_H_

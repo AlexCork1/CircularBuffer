@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "CircularBuffer.h"
+#include "../CircularBuffer.h"
 
 int main(int argv, char** args) {
 

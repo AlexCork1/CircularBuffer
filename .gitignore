@@ -244,3 +244,4 @@ Tests/googletest-main/googletest/test/gtest-unittest-api_test.cc
 Tests/googletest-main/googletest/test/production.cc
 Tests/googletest-main/googletest/test/production.h
 .vscode/settings.json
+.vscode/tasks.json

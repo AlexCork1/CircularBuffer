@@ -1,4 +1,4 @@
-#include "googletest-main\googletest\include\gtest\gtest.h"
+#include "<gtest/gtest.h>
 #include <queue>
 
 using namespace std;

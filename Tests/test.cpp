@@ -5,7 +5,7 @@ using namespace std;
 
 
 extern "C" {
-#include "../CircularBuffer/CircularBuffer.h"
+#include "../CircularBuffer.h"
 }
 
 TEST(CircularBuffer_test, EmptyBufferGetCharOnce) {

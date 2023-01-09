@@ -72,8 +72,3 @@ TEST(CircularBuffer_test, InsertBuffSizePlus1Chars) {
 	EXPECT_EQ(round_robin.buffer[1], 'B');
 	EXPECT_EQ(round_robin.buffer[2], 'C');
 }
-
-int main(int argc, char **argv) {
-  ::testing::InitGoogleTest(&argc, argv);
-  return RUN_ALL_TESTS();
-}

@@ -246,3 +246,4 @@ Tests/googletest-main/googletest/test/production.h
 .vscode/settings.json
 .vscode/tasks.json
 CodeExample/main.exe
+Example/main.exe
